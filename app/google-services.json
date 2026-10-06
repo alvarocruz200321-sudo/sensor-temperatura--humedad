@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1082083515687",
+    "firebase_url": "https://sensor-temp-hum-default-rtdb.firebaseio.com",
+    "project_id": "sensor-temp-hum",
+    "storage_bucket": "sensor-temp-hum.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082083515687:android:5de04b0d61cd1c672add02",
+        "android_client_info": {
+          "package_name": "com.example.sensor_temp__hum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiUXQrSQNqKDZU21NxLcGFBDNjFCyGBFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082083515687:android:7c2b52c5c0bbf2da2add02",
+        "android_client_info": {
+          "package_name": "com.example.sensor_temp_hum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiUXQrSQNqKDZU21NxLcGFBDNjFCyGBFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
